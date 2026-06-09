@@ -1,0 +1,139 @@
+## Игнорируемые файлы и папки для проекта C# / Windows Forms (Visual Studio)
+
+## Скомпилированные файлы
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.exe.manifest
+*.dll.manifest
+
+## Временные файлы
+*.tmp
+*.temp
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.sln.docstates
+*.csproj.user
+*.vcxproj.filters
+*.vcxproj.user
+
+## Папки Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+AnyCPU/
+ipch/
+
+## Файлы резервных копий
+*.bak
+*.backup
+*~
+*.swp
+*.~vsd
+
+## Файлы настроек пользователя
+*.userprefs
+*.usertasks
+launchSettings.json
+appsettings.Development.json
+
+## Файлы пакетов NuGet
+packages/
+*.nupkg
+*.snupkg
+packages.config
+project.lock.json
+
+## Файлы покрытия тестов и диагностики
+*.coverage
+*.coveragexml
+*.trx
+*.TestResults
+*.vsidx
+*.dotCover
+*.dotTrace
+
+## Файлы публикации
+*.pubxml
+*.pubxml.user
+publish/
+*.deploy.cmd
+*.publishproj
+*.manifest
+*.application
+*.deploy
+
+## Файлы отчётов и аналитики
+*.rdlc
+*.rdl.data
+*.rdl.config
+*.sdf
+*.mdf
+*.ldf
+*.dbmdl
+
+## Лог-файлы
+*.log
+*.etl
+*.trace
+
+## Системные файлы Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+*.tmp
+
+## Файлы архиваторов
+*.zip
+*.7z
+*.rar
+*.gz
+*.tar
+*.bz2
+
+## Файлы документации (кроме исходных)
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+## Фото и медиа (если не являются частью исходников)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.ico
+*.mp4
+*.mp3
+
+## Файлы среды выполнения
+*.runtimeconfig.json
+*.deps.json
+*.nuget.g.props
+*.nuget.g.targets
+
+## Файлы профилирования и диагностики
+*.vsp
+*.vspx
+*.psess
+*.sess
+*.diagsession
